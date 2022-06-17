@@ -1,5 +1,5 @@
 # QFT-Adder-based-MCT-Gate
-Efficient QFT Adder based MCT gate
+Efficient QFT Adder based MCT gate demonstrated in the notebook using 14 control qubits
 
 
 ## Traditional MCT Gate
